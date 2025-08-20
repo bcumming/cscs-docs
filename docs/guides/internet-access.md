@@ -44,7 +44,7 @@ We have a good relationship with SWITCH, so if we trigger some of their fail-saf
 External providers might take action, like blacklisting Alps, without warning or notification.
 
 For example a website might blacklist IPs, or whole subnets from CSCS, rendering the service unavailable for **all CSCS users**.
-Many sites use content delivery networks (CDN), like Cloudflare, Akamai, or similar, and if those blacklist CSCS we would lose access to all content provided by those CDNs.
+Many sites use content delivery networks (CDN), like Cloudflare, Akamai, or similar, and if those blacklist CSCS we would lose access to content provided by those networks.
 In addition, once blacklisted, it is very difficult to get removed from the blacklist.
 
 !!! info
